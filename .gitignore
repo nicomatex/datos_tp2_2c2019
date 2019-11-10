@@ -3,4 +3,6 @@ test.csv
 ejemploRespuesta.csv
 metaDataNavent.ipynb
 
+.ipynb_checkpoints/*
+
 features/*
