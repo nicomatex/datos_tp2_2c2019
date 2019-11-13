@@ -1,0 +1,12 @@
+Dejo aca algunas ideas para ir testeando que se me ocurrieron y no probe xq requieren de mucho laburo por ahora.
+
+
+
+*** FEATURE GENERATION:
+
+- Encoding de variables categoricas:
+    > Probar target encoder, mean encoding, smoothing, cross validation, leave one out.
+- Probar generando columnas relacionadas directamente con el precio. CUIDADO, esto es peligroso, puede generar un fuerte overfitting.
+- Escalar cosas.
+- Buscar mas cosas en la descripcion.
+- Generar indicadores con el movimiento del dolar y del mercado inmobiliario.
