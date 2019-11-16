@@ -1,10 +1,7 @@
-train.csv
-test.csv
-full_featured.csv
-
 ejemploRespuesta.csv
 metaDataNavent.ipynb
 
 .ipynb_checkpoints/*
+data/*
 features/*
 respuesta.csv
